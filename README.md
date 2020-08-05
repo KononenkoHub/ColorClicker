@@ -1,16 +1,42 @@
-# test_app
+<p align="center">
+<img src="./media/logo/logo.png" width="250px">
+</p>
+# 🎨 ColorClicker
 
-A new Flutter project.
+Flutter application for random color generation. Entirely written in Dart and Flutter. Application is ready for Android and iOS.
 
-## Getting Started
+## 📷 Media 
+<table>
+<tr><h3>🤖Android</h3></tr>
+<tr>
+<td>
+<img src="./media/screenshots/android1.jpg">
+</td>
+<td>
+<img src="./media/screenshots/android2.jpg">
+</td>
+<td>
+<img src="./media/screenshots/android3.jpg">
+</td>
+</tr>
+</table>
+<table>
+<tr><h3>📱 iOS</h3></tr>
+<tr>
+<td>
+<img src="./media/screenshots/iOS1.png">
+</td>
+<td>
+<img src="./media/screenshots/iOS2.png">
+</td>
+<td>
+<img src="./media/screenshots/iOS3.png">
+</td>
+</tr>
+</table>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👷 To do
+- API for search images by color
+- Write more tests  
+- Code refactor  
+- Documentation
