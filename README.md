@@ -24,13 +24,13 @@ Flutter application for random color generation. Entirely written in Dart and Fl
 <tr><h3>📱 iOS</h3></tr>
 <tr>
 <td>
-<img src="./media/screenshots/iOS1.png">
+<img src="./media/screenshots/iOS1.PNG">
 </td>
 <td>
-<img src="./media/screenshots/iOS2.png">
+<img src="./media/screenshots/iOS2.PNG">
 </td>
 <td>
-<img src="./media/screenshots/iOS3.png">
+<img src="./media/screenshots/iOS3.PNG">
 </td>
 </tr>
 </table>
