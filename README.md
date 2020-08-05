@@ -1,6 +1,7 @@
 <p align="center">
 <img src="./media/logo/logo.png" width="250px">
 </p>
+
 # 🎨 ColorClicker
 
 Flutter application for random color generation. Entirely written in Dart and Flutter. Application is ready for Android and iOS.
