@@ -13,7 +13,6 @@ class _ColorSwitcherState extends State<ColorSwitcher> {
   Color backgroundColor = Colors.white;
   static Random random = new Random();
   Color getRandomColor() {
-    Random random = new Random();
     return Color.fromARGB(
         255, random.nextInt(255), random.nextInt(255), random.nextInt(255));
   }
@@ -65,6 +64,8 @@ class _ColorSwitcherState extends State<ColorSwitcher> {
                 ),
               ),
               onTap: () => changeColor(),
-            )));
+            )
+          )
+        );
   }
 }

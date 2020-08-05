@@ -3,8 +3,10 @@ import '../model/hero_image.dart';
 
 
 class ImageCard extends StatelessWidget {
-  HeroImage hero;
+  final HeroImage hero;
+  
   ImageCard({this.hero});
+
   @override
   Widget build(BuildContext context) {
     return Hero(
